@@ -1,1 +1,11 @@
-# PUSH-BUTTON-COUNTER
+# PUSH-BUTTON-COUNTERCOMPANY: CODTECH IT SOLUTIONS
+
+NAME: kammakattu Gopalkrishnareddy 
+
+INTERN ID:CT04DF1685
+
+DOMAIN: Embedded Systems
+
+DURATION: 4 WEEKS
+
+MENTOR: Neela Santhosh Kumar
